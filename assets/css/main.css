@@ -210,4 +210,28 @@ div{
      border-radius: 50%;
 	border: 3px solid white;
      
-}*/
+}
+
+#cuadcentral{
+    top: 30%;
+	margin-left:50%;
+	width: 19%;
+	height:40%;
+	border: 5px solid white;
+	
+}
+#cuadcentral2{
+	top: 30%;
+	left: 30.5%;
+	width: 19%;
+	height:40%;
+	border: 5px solid white;
+}
+#divisorcentral{
+	top: 50%;
+	left: 31%;
+	width: 38%;
+	height:0%;
+	border: 3px solid white;
+	
+}
